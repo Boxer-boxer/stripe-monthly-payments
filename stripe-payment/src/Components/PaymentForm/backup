@@ -1,0 +1,9 @@
+backup
+    <div className="shadow-3 br3 checkout ba">
+        <p>Would you like to complete the purchase?</p>
+        <div width="60px;"><CardElement id="#card-element"/></div>
+        <button onClick={this.submit}>Purchase</button>
+        
+      </div>
+
+      export default injectStripe(PaymentForm);

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce34edee.chunk.css",
+    "main.js": "/static/js/main.977b40ce.chunk.js",
+    "main.js.map": "/static/js/main.977b40ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1b3df68.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1b3df68.js.map",
+    "static/js/2.c4e76106.chunk.js": "/static/js/2.c4e76106.chunk.js",
+    "static/js/2.c4e76106.chunk.js.map": "/static/js/2.c4e76106.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38ab1d6c92a927937d16a01c8f7d997d.js": "/precache-manifest.38ab1d6c92a927937d16a01c8f7d997d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ce34edee.chunk.css.map": "/static/css/main.ce34edee.chunk.css.map",
+    "static/media/App.css": "/static/media/Andes-Light.89764dea.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1b3df68.js",
+    "static/js/2.c4e76106.chunk.js",
+    "static/css/main.ce34edee.chunk.css",
+    "static/js/main.977b40ce.chunk.js"
+  ]
+}
